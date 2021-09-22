@@ -4,6 +4,7 @@ this is a super basic modified psych engine build meant specifically for recordi
  * removed the `BOTPLAY` text that normally appears while botplay is enabled
  * removed the miss count and rating % next to the score at the top so that it looks closer to vanilla fnf (and so that it doesn't always say `Rating: ?` at all times)
  * made it so that the score updates even while botplay is enabled
+ * replaced the vanilla versions of bopeebo and fresh with the ost versions (because the ones in the vanilla game are early versions that suck)
 
 ## preview:
 ![psych test5](https://user-images.githubusercontent.com/13923537/134419590-4032b6a4-b7ff-4673-840f-a08825575196.gif)
