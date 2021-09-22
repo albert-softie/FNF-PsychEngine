@@ -162,7 +162,7 @@ class PlayState extends MusicBeatState
 	public static var cpuControlled:Bool = false;
 
 	var botplaySine:Float = 0;
-	var botplayTxt:FlxText;
+	// var botplayTxt:FlxText;
 
 	public var iconP1:HealthIcon;
 	public var iconP2:HealthIcon;
@@ -874,15 +874,15 @@ class PlayState extends MusicBeatState
 		scoreTxt.visible = !ClientPrefs.hideHud;
 		add(scoreTxt);
 
-		botplayTxt = new FlxText(400, timeBarBG.y + 55, FlxG.width - 800, "BOTPLAY", 32);
-		botplayTxt.setFormat(Paths.font("vcr.ttf"), 32, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
-		botplayTxt.scrollFactor.set();
-		botplayTxt.borderSize = 1.25;
-		botplayTxt.visible = cpuControlled;
-		add(botplayTxt);
-		if(ClientPrefs.downScroll) {
-			botplayTxt.y = timeBarBG.y - 78;
-		}
+		// botplayTxt = new FlxText(400, timeBarBG.y + 55, FlxG.width - 800, "BOTPLAY", 32);
+		// botplayTxt.setFormat(Paths.font("vcr.ttf"), 32, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+		// botplayTxt.scrollFactor.set();
+		// botplayTxt.borderSize = 1.25;
+		// botplayTxt.visible = cpuControlled;
+		// add(botplayTxt);
+		// if(ClientPrefs.downScroll) {
+		// 	botplayTxt.y = timeBarBG.y - 78;
+		// }
 
 		strumLineNotes.cameras = [camHUD];
 		grpNoteSplashes.cameras = [camHUD];
@@ -892,7 +892,7 @@ class PlayState extends MusicBeatState
 		iconP1.cameras = [camHUD];
 		iconP2.cameras = [camHUD];
 		scoreTxt.cameras = [camHUD];
-		botplayTxt.cameras = [camHUD];
+		// botplayTxt.cameras = [camHUD];
 		timeBar.cameras = [camHUD];
 		timeBarBG.cameras = [camHUD];
 		timeTxt.cameras = [camHUD];
@@ -1975,16 +1975,16 @@ class PlayState extends MusicBeatState
 		super.update(elapsed);
 
 		if(ratingString == '?') {
-			scoreTxt.text = 'Score: ' + songScore + ' | Misses: ' + songMisses + ' | Rating: ' + ratingString;
+			scoreTxt.text = 'Score: ' + songScore;
 		} else {
-			scoreTxt.text = 'Score: ' + songScore + ' | Misses: ' + songMisses + ' | Rating: ' + ratingString + ' (' + Math.floor(ratingPercent * 100) + '%)';
+			scoreTxt.text = 'Score: ' + songScore;
 		}
 
-		if(cpuControlled) {
-			botplaySine += 180 * elapsed;
-			botplayTxt.alpha = 1 - Math.sin((Math.PI * botplaySine) / 180);
-		}
-		botplayTxt.visible = cpuControlled;
+		// if(cpuControlled) {
+		// 	botplaySine += 180 * elapsed;
+		// 	botplayTxt.alpha = 1 - Math.sin((Math.PI * botplaySine) / 180);
+		// }
+		// botplayTxt.visible = cpuControlled;
 
 		if (FlxG.keys.justPressed.ENTER && startedCountdown && canPause)
 		{
@@ -3021,7 +3021,7 @@ class PlayState extends MusicBeatState
 			spawnNoteSplashOnNote(note);
 		}
 
-		if(!practiceMode && !cpuControlled) {
+		// if(!practiceMode && !cpuControlled) {
 			songScore += score;
 			songHits++;
 			RecalculateRating();
@@ -3035,7 +3035,7 @@ class PlayState extends MusicBeatState
 					scoreTxtTween = null;
 				}
 			});
-		}
+		// }
 
 		/* if (combo > 60)
 				daRating = 'sick';
