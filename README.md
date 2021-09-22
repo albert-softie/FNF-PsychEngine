@@ -1,3 +1,15 @@
+this is a super basic modified psych engine build meant specifically for recording nice looking videos of charts (like for rips and stuff)
+
+
+
+## changes made:
+ * removed the BOTPLAY text that normally appears while botplay is enabled
+ * removed the miss count and rating % next to the score at the top so that it looks closer to vanilla fnf (and so that it doesn't always say Rating: ? at all times)
+
+
+original readme below:
+_____________________________________
+
 # Friday Night Funkin' - Psych Engine
 Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
