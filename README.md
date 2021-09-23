@@ -1,4 +1,5 @@
 this is a super basic modified psych engine build meant specifically for recording nice looking videos of charts (like for rips and stuff)
+
 if you're looking for thumbnails, they're right [here](https://github.com/albert-softie/albab-s-cool-and-amazing-fnf-engine/tree/main/thumbnails)
 
 
