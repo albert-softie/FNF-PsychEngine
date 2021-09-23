@@ -9,11 +9,16 @@ this is a super basic modified psych engine build meant specifically for recordi
 ## preview:
 ![psych test5](https://user-images.githubusercontent.com/13923537/134419590-4032b6a4-b7ff-4673-840f-a08825575196.gif)
 
+#### bucket list of additions/changes which will probably never happen but y'know a guy can dream:
+ * have botplay enabled by default when selcting a song (definitely the most possible out of all of these ᵒʳ ᵃᵗ ˡᵉᵃˢᵗ ᶦᵗ ʷᵒᵘˡᵈ ᵇᵉ ᶦᶠ ᶦ ᵏⁿᵉʷ ʷʰᵃᵗ ᶦ ʷᵃˢ ᵈᵒᶦⁿᵍ)
+ * add in the week 7 checkboxes and note splash effects that were in early versions of psych engine but removed (for literally no other reason than fuck gamebanana)
+ * week 7 (would be nice but more than likely not happening until week 7 comes to psych engine itself ᶦᶠ ᵗʰᵃᵗ ᵉᵛᵉʳ ʰᵃᵖᵖᵉⁿˢ)
+
 ## disclaimer:
  * i am not a programmer. the most i can do is comment out lines and ask then people who know what they're doing why my changes break everything. so don't expect that many huge updates to this that aren't just updates to psych engine itself
  * would probably recommend against making any actual big boy mods with this. as stated above, this fork exists for the sole purpose of looking good in videos. if for whatever reason you were looking at this thinking you should make a mod using this engine, [og psych engine is right here.](https://github.com/ShadowMario/FNF-PsychEngine) besides it's not like i made any substantial changes to psych engine or anything like that (in fact as of writing this literally every change i made is in one file lmao)
  * if you do use this for videos, you don't *have* to give credit to me or link back here, but i wouldn't mind if you did
- * i used psych engine instead of something like kade engine because i like the little changes it makes to the vanilla game and also all the de-hardcoding stuff  ~~\(and also ke botplay kinda sucks lmao)~~
+ * i used psych engine instead of something like kade engine because i like the little changes it makes to the vanilla game and also all the de-hardcoding stuff  ⁽ᵃⁿᵈ ᵃˡˢᵒ ᵏᵃᵈᵉ ᵉⁿᵍᶦⁿᵉ ᵇᵒᵗᵖˡᵃʸ ᵏᶦⁿᵈᵃ ˢᵘᶜᵏˢ ˡᵐᵃᵒ⁾
 
 
 special thanks to the people who actually made the engine that i more or less took a hacksaw to in order to make this, and also shoutouts to [noosh](https://www.youtube.com/channel/UCot9XXES2wpXePQ-s7O8T6g) for putting up with my code illiteracy and telling me how to make the game not break.
