@@ -15,7 +15,7 @@ if you're looking for thumbnails, they're right [here](https://github.com/albert
 #### bucket list of additions/changes which will probably never happen but y'know a guy can dream:
  * have botplay enabled by default when selcting a song (definitely the most possible out of all of these ~~or at least it would be if i knew what i was doing~~)
  * add in the week 7 checkboxes and note splash effects that were in early versions of psych engine but removed (for literally no other reason than fuck gamebanana)
- * ~~week 7 (would be nice but more than likely not happening until week 7 comes to psych engine itself~~ ~~if that ever happens)~~ 
+ * ~~`week 7 (would be nice but more than likely not happening until week 7 comes to psych engine itself`~~ ~~`if that ever happens)`~~ 
      
      turns out shadowmario ported week 7 to psych as a mod. not sure if i'm allowed to post it here but it's in the mind games discord.
 
