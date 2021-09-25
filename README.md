@@ -13,9 +13,9 @@ if you're looking for thumbnails, they're right [here](https://github.com/albert
 ![psych test5](https://user-images.githubusercontent.com/13923537/134419590-4032b6a4-b7ff-4673-840f-a08825575196.gif)
 
 #### bucket list of additions/changes which will probably never happen but y'know a guy can dream:
- * have botplay enabled by default when selcting a song (definitely the most possible out of all of these ᵒʳ ᵃᵗ ˡᵉᵃˢᵗ ᶦᵗ ʷᵒᵘˡᵈ ᵇᵉ ᶦᶠ ᶦ ᵏⁿᵉʷ ʷʰᵃᵗ ᶦ ʷᵃˢ ᵈᵒᶦⁿᵍ)
+ * have botplay enabled by default when selcting a song (definitely the most possible out of all of these ~~or at least it would be if i knew what i was doing~~)
  * add in the week 7 checkboxes and note splash effects that were in early versions of psych engine but removed (for literally no other reason than fuck gamebanana)
- * week 7 (would be nice but more than likely not happening until week 7 comes to psych engine itself ᶦᶠ ᵗʰᵃᵗ ᵉᵛᵉʳ ʰᵃᵖᵖᵉⁿˢ)
+ * week 7 (would be nice but more than likely not happening until week 7 comes to psych engine itself ~~if that ever happens~~)
 
 ## disclaimer:
  * i am not a programmer. the most i can do is comment out lines and ask then people who know what they're doing why my changes break everything. so don't expect that many huge updates to this that aren't just updates to psych engine itself
