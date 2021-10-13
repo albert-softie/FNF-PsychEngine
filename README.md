@@ -17,7 +17,7 @@ if you're looking for thumbnails, they're right [here](https://github.com/albert
  * add in the week 7 checkboxes and note splash effects that were in early versions of psych engine but removed (for literally no other reason than fuck gamebanana)
  * ~~`week 7 (would be nice but more than likely not happening until week 7 comes to psych engine itself)`~~ ~~`(if that ever happens)`~~ 
      
-     turns out shadowmario ported week 7 to psych as a mod. not sure if i'm allowed to post it here but it's in the mind games discord.
+     turns out shadowmario ported week 7 to psych as a mod. not sure if i'm allowed to post it here but it's in the basement club discord.
 
 ## disclaimer:
  * i am not a programmer. the most i can do is comment out lines and ask then people who know what they're doing why my changes break everything. so don't expect that many huge updates to this that aren't just updates to psych engine itself
