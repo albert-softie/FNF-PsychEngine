@@ -67,8 +67,8 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['albab engine'],
-			['Albert Softie', 		'albertsoftie',		'changed like one or two files\nand called it an engine\n \nhead sprite by twitter.com/smalflp', 'https://www.youtube.com/channel/UC5eZzcOpPb6Mam7WKQJqbyQ',		0x3a71c1ff],
-			['Noosh', 		'noosh',		'actually knows what he\'s doing', 'https://www.youtube.com/channel/UCot9XXES2wpXePQ-s7O8T6g',		0x5edc64ff],
+			['Albert Softie', 		'albertsoftie',		'changed like one or two files\nand called it an engine\n \nhead sprite by twitter.com/smalflp', 'https://www.youtube.com/channel/UC5eZzcOpPb6Mam7WKQJqbyQ',		'0x3a71c1ff'],
+			['Noosh', 		'noosh',		'actually knows what he\'s doing', 'https://www.youtube.com/channel/UCot9XXES2wpXePQ-s7O8T6g',		'0x5edc64ff'],
 			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',						'https://twitter.com/Shadow_Mario_',	'FFDD33'],
