@@ -2163,7 +2163,7 @@ class PlayState extends MusicBeatState
 		if(ratingName == '?') {
 			scoreTxt.text = 'Score: ' + songScore;
 		} else {
-			scoreTxt.text = 'Score: ' + songScore ' (' + Highscore.floorDecimal(ratingPercent * 100, 2) + '%)' + ' - ' + ratingFC;//peeps wanted no integer rating
+			scoreTxt.text = 'Score: ' + songScore;
 		}
 
 		// if(botplayTxt.visible) {
@@ -3276,7 +3276,7 @@ class PlayState extends MusicBeatState
 				if(scoreTxtTween != null) {
 					scoreTxtTween.cancel();
 				}
-			});
+			};
 		// }
 
 		/* if (combo > 60)
